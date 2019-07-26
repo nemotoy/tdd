@@ -8,5 +8,7 @@ writes Test-Driven Development
 - [ ] amountをprivateにする
 - [x] Dollarの副作用
 - [ ] Moneyの丸め処理
-- [ ] equals()
+- [x] equals()
 - [ ] hashCode()
+- [ ] nullとの比較
+- [ ] 他オブジェクトとの比較
