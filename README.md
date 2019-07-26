@@ -7,6 +7,8 @@ writes Test-Driven Development
 4. テストを通す
 5. 重複を排除する
 
+十分な量のテストがない場合は、あるべきテストを描いてからリファクタリングを行う。
+
 ## TODO
 
 - [ ] $5 + 10 CHF = $10
@@ -20,5 +22,5 @@ writes Test-Driven Development
 - [ ] 他オブジェクトとの比較
 - [x] 5 CHF * 2 = 10 CHF
 - [ ] DollarとFrancの重複
-- [ ] equalsの一般化
+- [x] equalsの一般化
 - [ ] timesの一般化
