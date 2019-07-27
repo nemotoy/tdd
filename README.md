@@ -12,6 +12,8 @@ writes Test-Driven Development
 ## TODO
 
 - [ ] $5 + 10 CHF = $10
+- [ ] $5 + $5 = $10
+
 - [x] $5 * 2 = $10
 - [x] amountをprivateにする
 - [x] Dollarの副作用
