@@ -37,3 +37,13 @@ writes Test-Driven Development
 - [x] FrancとDollarを比較する
 - [x] 通貨の概念
 - [x] testFrancMultiplicationを削除する？
+
+## Part2
+
+### TODO
+
+- [x] テストメソッドを呼び出す
+- [ ] setUp を最初に呼び出す
+- [ ] tearDown を後で呼び出す
+- [ ] テストメソッドを失敗したとしても tearDown を呼び出す
+- [ ] 収集したテスト結果を出力する
